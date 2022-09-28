@@ -1,0 +1,103 @@
+header{
+    background-color: rgb(116, 200, 228);
+    /*margin: auto -16px;
+    */padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0, 0.3);
+}
+
+header h1{
+    color:rgb(19, 1, 1);
+    font-family:"McLaren",cursive;
+    font-weight: 200;
+    text-align: center;
+}
+
+.nav {
+    background-color: rgb(7, 7, 7);
+    margin: auto;
+   
+}
+
+
+.navtab ul {
+    overflow: auto;
+    margin: auto;
+      
+}
+
+.nav-item {
+    float: left;
+    list-style: none;
+    margin: 12px 30px;
+    color: white;
+    
+}
+
+.nav-link  {
+    padding: 5px 5px;
+    text-decoration: none;
+    color: white;
+
+}
+.nav-item:hover {
+    background-color: rgb(15, 224, 140);
+}
+footer{
+    background-color:rgb(5, 6, 6);
+    /*margin: auto -16px;
+    */padding: 10px 25px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0, 0.3);
+}
+
+footer h3{
+    color:whitesmoke;
+    font-family:"McLaren",cursive;
+    font-weight: 200;
+    text-align: center;
+}
+
+.dropdownBox{
+    color:white;
+    text-decoration: none;
+}
+.dropdownBox:hover{
+    color:white;
+    text-decoration: none;
+    
+}
+.dropdownBoxDiv{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.dropdownBoxDiv:hover{
+    background-color: rgb(62, 16, 227);
+}
+.arrow {
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    position: relative;
+    top:-3px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+  
+  .up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
+  
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
