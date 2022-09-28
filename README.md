@@ -1,2 +1,6 @@
 # Online_Cylinder_Booking
-This is the project of online cylinder booking
+Project_Name- online cylinder booking
+Project Partners
+Tushar Rangari
+Krishna Lilhare
+Ritwik Shukla
